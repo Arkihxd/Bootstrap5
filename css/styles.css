@@ -1,0 +1,55 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.img-logo{
+    max-width: 300px;
+}
+
+.topo{
+    padding: 20px 0;
+    position: relative;
+}
+
+.banner-topo{
+    background-color: rgb(241, 245, 247);
+}
+
+.banner-topo .img-droid{
+    max-width: 300px;
+}
+
+.quem-somos .img-droid{
+    max-width: 600px;
+}
+
+.banner-topo h1{
+    color: #78c257;
+}
+
+.btn-color{
+    background-color: #78c257;
+    border: none;
+}
+
+.img-hab{
+    max-width: 150px;
+}
+
+.cor-tema{
+    color: #78c257;
+    font-weight: bold;
+}
+
+.quem-somos{
+    background-color: rgb(241, 245, 247);
+}
+
+.img-card{
+    max-height: 400px;
+    
+}
+
+.navbar a:hover{
+   color: #3aaa05;
+}
