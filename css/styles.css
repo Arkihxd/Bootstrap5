@@ -8,11 +8,7 @@ body{
 
 .topo{
     padding: 20px 0;
-    position: relative;
-}
-
-.banner-topo{
-    background-color: rgb(241, 245, 247);
+    background: #fff;
 }
 
 .banner-topo .img-droid{
@@ -25,6 +21,7 @@ body{
 
 .banner-topo h1{
     color: #78c257;
+    padding-top: 20px;
 }
 
 .btn-color{
@@ -41,7 +38,7 @@ body{
     font-weight: bold;
 }
 
-.quem-somos{
+.color-fundo{
     background-color: rgb(241, 245, 247);
 }
 
@@ -52,4 +49,14 @@ body{
 
 .navbar a:hover{
    color: #3aaa05;
+}
+
+.carousel-indicators {
+    bottom: -50px;
+    background: #78c257;
+}
+
+.carousel-inner img{
+    max-height: 150px;
+    width: 150px;
 }
