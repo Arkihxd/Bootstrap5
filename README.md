@@ -11,3 +11,5 @@
 
 ### O projeto está separado com páginas testando as funcionalidades separadamente e uma landing page "websiteAndroid.html" usando todas juntas.
 ```
+
+![img](https://i.imgur.com/mqX3gKq.png)
